@@ -1,0 +1,24 @@
+{
+  "name": "mastt-frontend",
+  "version": "1.0.0",
+  "description": "Multi-Agent Software Testing Team Google ADK",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd frontend && npm start",
+    "build": "cd frontend && npm run build",
+    "install-all": "npm install && cd frontend && npm install"
+  },
+  "keywords": [
+    "testing",
+    "automation",
+    "ai",
+    "agents",
+    "google-adk"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.3.3",
+    "@types/node": "^20.10.6"
+  }
+}
