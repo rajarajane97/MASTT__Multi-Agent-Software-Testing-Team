@@ -1,3 +1,4 @@
+![alt text](https://github.com/rajarajane97/MASTT__Multi-Agent-Software-Testing-Team/raw/main/frontend/public/img/MASTT.png "MASTT-logo")
 # 🤖 Multi-Agent Software Testing Team [MASTT]
 
 A comprehensive, AI-powered test automation system using Google ADK (Agent Development Kit) with 11 specialized AI agents that automatically analyze code, create test plans, write test cases, generate automation code, and produce complete documentation. Your Code, Anchored in Quality!!!
