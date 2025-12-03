@@ -1,5 +1,5 @@
 # Multi Agent Software Testing Team [MASTT] - Project Documentation
-
+![alt text](https://github.com/rajarajane97/MASTT__Multi-Agent-Software-Testing-Team/raw/main/frontend/public/img/MASTT.png "MASTT-logo")
 
 ## 📚 Table of Contents
 
