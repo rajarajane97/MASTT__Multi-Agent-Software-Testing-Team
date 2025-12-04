@@ -227,7 +227,7 @@ An intelligent multi-agent system powered by Google's Gemini AI that:
 ### Step 1: Clone Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/rajarajane97/MASTT__Multi-Agent-Software-Testing-Team
 cd mastt
 ```
 
